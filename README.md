@@ -1,9 +1,10 @@
 # Kaggle
 このフォルダは、参加したKaggleのコンペのデータとコードを格納しています。
 
-| コンペタイトル             | 開催日時               | 評価指標 | 順位        | 
-| -------------------------- | ---------------------- | -------- | ----------- | 
-| Binary Classification with a Bank Churn Dataset       | 2024/01/02～2024/02/01 | AUC  | 157位/3632人 | 
-| Home Credit - Credit Risk Model Stability       | 2024/02/06～2024/03/07 | gini  | 1716位/3589人 | 
+| コンペタイトル             | 種類 | 開催日時               | 評価指標 | 順位        | 
+| -------------------------- | -------- | ---------------------- | -------- | ----------- | 
+| Binary Classification with a Bank Churn Dataset       | playground | 2024/01/02～2024/02/01 | AUC  | 157位/3632人 | 
+| Multi-Class Prediction of Obesity Risk       | playground | 2024/02/06～2024/03/07 | accuracy  | 1716位/3589人 | 
+| Steel Plate Defect Prediction       | playground | 2024/03/01～2024/04/01 | AUC  |  | 
 
 Kaggleのプロフィール⇒https://www.kaggle.com/work
