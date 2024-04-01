@@ -5,6 +5,6 @@
 | -------------------------- | -------- | ---------------------- | -------- | ----------- | 
 | Binary Classification with a Bank Churn Dataset       | playground | 2024/01/02～2024/02/01 |   AUC    | 157位/3632人 | 
 | Multi-Class Prediction of Obesity Risk                | playground | 2024/02/06～2024/03/07 | accuracy | 1716位/3589人 | 
-| Steel Plate Defect Prediction                         | playground | 2024/03/01～2024/04/01 |   AUC    |  | 
+| Steel Plate Defect Prediction                         | playground | 2024/03/01～2024/04/01 |   AUC    | 846位/2199人 | 
 
 Kaggleのプロフィール⇒https://www.kaggle.com/work
